@@ -1,1 +1,2 @@
-# StdyRepo
+# studyRepo
+this changhe wsa made
